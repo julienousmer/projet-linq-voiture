@@ -5,7 +5,7 @@ Ce projet est une application console .NET qui permet de gérer une liste de voi
 
 ## Prérequis
 Pour exécuter ce projet, vous aurez besoin de :
-- [.NET 6 SDK](https://dotnet.microsoft.com/download) ou une version plus récente.
+- [.NET 7 SDK](https://dotnet.microsoft.com/download) ou une version plus récente.
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) avec le workload de développement .NET desktop activé.
 
 ## Installation
