@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BL90mxWUJAnoP9GwQwBQGdjhsZ2hDIAwDWxM41ltGx0rZxSBlQFLuJtRoPkiLWynd45hIFPKyE6EQG7I++7E4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julie\\Documents\\M1IL\\LinQ\\projet-linq-voiture\\carList-LinQ\\carList-LinQ\\carList-LinQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\julie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

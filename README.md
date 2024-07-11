@@ -9,9 +9,7 @@ Pour exécuter ce projet, vous aurez besoin de :
 - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) avec le workload de développement .NET desktop activé.
 
 ## Installation
-1. Clonez le dépôt GitHub où se trouve le projet :
-
-`git clone https://github.com/julienousmer/projet-linq-voiture.git`
+1. Clonez le dépôt GitHub où se trouve le projet : `git clone https://github.com/julienousmer/projet-linq-voiture.git`
 
 2. Ouvrez le fichier solution (`.sln`) avec Visual Studio 2022.
 
